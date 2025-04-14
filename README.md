@@ -1,3 +1,7 @@
 # test
-descr.. changed in main
+<<<<
+scr..
+
+## new 1 edition
+=======
 ### and smth added in main
